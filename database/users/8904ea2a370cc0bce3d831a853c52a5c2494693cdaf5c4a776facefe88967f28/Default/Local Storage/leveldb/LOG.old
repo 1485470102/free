@@ -1,15 +1,27 @@
-2023/07/14-10:10:44.286 864 Reusing MANIFEST /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/14-10:10:44.287 864 Recovering log #24
-2023/07/14-10:10:44.288 864 Reusing old log /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Local Storage/leveldb/000024.log 
-2023/07/14-10:10:44.288 864 Delete type=2 #8
-2023/07/14-10:10:44.288 864 Delete type=2 #11
-2023/07/14-10:10:44.288 864 Delete type=0 #17
-2023/07/14-10:10:44.288 864 Delete type=0 #12
-2023/07/14-10:10:44.289 864 Delete type=0 #4
-2023/07/14-10:10:44.289 864 Delete type=0 #7
-2023/07/14-10:10:44.289 864 Delete type=0 #21
-2023/07/14-10:10:44.289 864 Delete type=0 #3
-2023/07/14-10:10:44.289 864 Delete type=2 #13
-2023/07/14-10:24:52.431 864 Level-0 table #28: started
-2023/07/14-10:24:52.433 864 Level-0 table #28: 7033 bytes OK
-2023/07/14-10:24:52.434 864 Delete type=0 #24
+2023/07/20-09:46:11.758 7ec Reusing MANIFEST /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/20-09:46:11.759 7ec Recovering log #27
+2023/07/20-09:46:11.760 7ec Level-0 table #30: started
+2023/07/20-09:46:11.765 7ec Level-0 table #30: 6982 bytes OK
+2023/07/20-09:46:11.781 7ec Delete type=0 #27
+2023/07/20-09:46:11.781 7ec Delete type=0 #24
+2023/07/20-09:46:11.781 7ec Delete type=2 #8
+2023/07/20-09:46:11.781 7ec Delete type=2 #11
+2023/07/20-09:46:11.781 7ec Delete type=0 #17
+2023/07/20-09:46:11.781 7ec Delete type=0 #12
+2023/07/20-09:46:11.781 7ec Delete type=0 #4
+2023/07/20-09:46:11.781 7ec Delete type=0 #7
+2023/07/20-09:46:11.781 7ec Delete type=0 #21
+2023/07/20-09:46:11.781 7ec Delete type=0 #3
+2023/07/20-09:46:11.781 7ec Delete type=2 #13
+2023/07/20-09:46:11.790 7ee Compacting 4@0 + 1@1 files
+2023/07/20-09:46:11.798 7ee Generated table #32@0: 524 keys, 4050 bytes
+2023/07/20-09:46:11.798 7ee Compacted 4@0 + 1@1 files => 4050 bytes
+2023/07/20-09:46:11.799 7ee compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/20-09:46:11.800 7ee Delete type=2 #22
+2023/07/20-09:46:11.800 7ee Delete type=2 #28
+2023/07/20-09:46:11.800 7ee Delete type=2 #25
+2023/07/20-09:46:11.800 7ee Delete type=2 #19
+2023/07/20-09:46:11.800 7ee Delete type=2 #30
+2023/07/20-10:00:12.085 e15 Level-0 table #34: started
+2023/07/20-10:00:12.087 e15 Level-0 table #34: 6946 bytes OK
+2023/07/20-10:00:12.089 e15 Delete type=0 #31
