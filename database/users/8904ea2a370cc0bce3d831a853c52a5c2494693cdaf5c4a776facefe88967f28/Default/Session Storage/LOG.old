@@ -1,17 +1,32 @@
-2023/07/21-09:48:12.529 7e6 Reusing MANIFEST /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Session Storage/MANIFEST-000001
-2023/07/21-09:48:12.530 7e6 Recovering log #34
-2023/07/21-09:48:12.530 7e6 Reusing old log /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Session Storage/000034.log 
-2023/07/21-09:48:12.535 7e6 Delete type=2 #24
-2023/07/21-09:48:12.535 7e6 Delete type=0 #23
-2023/07/21-09:48:12.538 7e6 Delete type=0 #20
-2023/07/21-09:48:12.538 7e6 Delete type=2 #8
-2023/07/21-09:48:12.539 7e6 Delete type=2 #15
-2023/07/21-09:48:12.539 7e6 Delete type=2 #10
-2023/07/21-09:48:12.539 7e6 Delete type=2 #19
-2023/07/21-09:48:12.539 7e6 Delete type=0 #14
-2023/07/21-09:48:12.540 7e6 Delete type=0 #9
-2023/07/21-09:48:12.540 7e6 Delete type=0 #4
-2023/07/21-09:48:12.540 7e6 Delete type=0 #28
-2023/07/21-09:48:12.540 7e6 Delete type=2 #21
-2023/07/21-09:48:12.540 7e6 Delete type=0 #3
-2023/07/21-09:48:12.540 7e6 Delete type=2 #13
+2023/07/27-09:36:47.177 81e Reusing MANIFEST /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Session Storage/MANIFEST-000001
+2023/07/27-09:36:47.178 81e Recovering log #34
+2023/07/27-09:36:47.179 81e Reusing old log /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Session Storage/000034.log 
+2023/07/27-09:36:47.180 81e Delete type=2 #24
+2023/07/27-09:36:47.180 81e Delete type=0 #23
+2023/07/27-09:36:47.180 81e Delete type=0 #20
+2023/07/27-09:36:47.180 81e Delete type=2 #8
+2023/07/27-09:36:47.180 81e Delete type=2 #15
+2023/07/27-09:36:47.180 81e Delete type=2 #10
+2023/07/27-09:36:47.180 81e Delete type=2 #19
+2023/07/27-09:36:47.180 81e Delete type=0 #14
+2023/07/27-09:36:47.180 81e Delete type=0 #9
+2023/07/27-09:36:47.180 81e Delete type=0 #4
+2023/07/27-09:36:47.180 81e Delete type=0 #28
+2023/07/27-09:36:47.182 81e Delete type=2 #21
+2023/07/27-09:36:47.182 81e Delete type=0 #3
+2023/07/27-09:36:47.182 81e Delete type=2 #13
+2023/07/27-09:51:34.826 d79 Level-0 table #38: started
+2023/07/27-09:51:34.828 d79 Level-0 table #38: 7548 bytes OK
+2023/07/27-09:51:34.829 d79 Delete type=0 #34
+2023/07/27-09:59:59.667 81e Level-0 table #40: started
+2023/07/27-09:59:59.673 81e Level-0 table #40: 6901 bytes OK
+2023/07/27-09:59:59.677 81e Delete type=0 #37
+2023/07/27-09:59:59.677 81e Compacting 4@0 + 1@1 files
+2023/07/27-09:59:59.680 81e Generated table #41@0: 174 keys, 4078 bytes
+2023/07/27-09:59:59.680 81e Compacted 4@0 + 1@1 files => 4078 bytes
+2023/07/27-09:59:59.681 81e compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/27-09:59:59.682 81e Delete type=2 #40
+2023/07/27-09:59:59.682 81e Delete type=2 #33
+2023/07/27-09:59:59.682 81e Delete type=2 #35
+2023/07/27-09:59:59.682 81e Delete type=2 #30
+2023/07/27-09:59:59.682 81e Delete type=2 #38
