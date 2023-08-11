@@ -1,26 +1,38 @@
-2023/08/10-09:44:42.388 835 Reusing MANIFEST /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/10-09:44:42.389 835 Recovering log #50
-2023/08/10-09:44:42.389 835 Reusing old log /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Local Storage/leveldb/000050.log 
-2023/08/10-09:44:42.390 835 Delete type=0 #33
-2023/08/10-09:44:42.390 835 Delete type=0 #41
-2023/08/10-09:44:42.390 835 Delete type=0 #3
-2023/08/10-09:44:42.390 835 Delete type=2 #34
-2023/08/10-09:44:42.390 835 Delete type=2 #13
-2023/08/10-09:44:42.390 835 Delete type=2 #22
-2023/08/10-09:44:42.390 835 Delete type=0 #27
-2023/08/10-09:44:42.390 835 Delete type=0 #21
-2023/08/10-09:44:42.390 835 Delete type=2 #28
-2023/08/10-09:44:42.390 835 Delete type=2 #37
-2023/08/10-09:44:42.390 835 Delete type=2 #11
-2023/08/10-09:44:42.390 835 Delete type=2 #19
-2023/08/10-09:44:42.390 835 Delete type=0 #17
-2023/08/10-09:44:42.390 835 Delete type=0 #7
-2023/08/10-09:44:42.390 835 Delete type=0 #24
-2023/08/10-09:44:42.390 835 Delete type=0 #4
-2023/08/10-09:44:42.391 835 Delete type=2 #32
-2023/08/10-09:44:42.391 835 Delete type=2 #8
-2023/08/10-09:44:42.391 835 Delete type=2 #39
-2023/08/10-09:44:42.391 835 Delete type=0 #38
-2023/08/10-09:44:42.391 835 Delete type=0 #12
-2023/08/10-09:44:42.391 835 Delete type=0 #45
-2023/08/10-09:44:42.391 835 Delete type=2 #25
+2023/08/11-09:19:58.798 819 Reusing MANIFEST /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/11-09:19:58.808 819 Recovering log #50
+2023/08/11-09:19:58.808 819 Reusing old log /home/runner/work/free/free/epic/src/database/users/8904ea2a370cc0bce3d831a853c52a5c2494693cdaf5c4a776facefe88967f28/Default/Local Storage/leveldb/000050.log 
+2023/08/11-09:19:58.809 819 Delete type=0 #33
+2023/08/11-09:19:58.809 819 Delete type=0 #41
+2023/08/11-09:19:58.810 819 Delete type=0 #3
+2023/08/11-09:19:58.810 819 Delete type=2 #34
+2023/08/11-09:19:58.810 819 Delete type=2 #13
+2023/08/11-09:19:58.810 819 Delete type=2 #22
+2023/08/11-09:19:58.810 819 Delete type=0 #27
+2023/08/11-09:19:58.810 819 Delete type=0 #21
+2023/08/11-09:19:58.810 819 Delete type=2 #28
+2023/08/11-09:19:58.810 819 Delete type=2 #37
+2023/08/11-09:19:58.810 819 Delete type=2 #11
+2023/08/11-09:19:58.810 819 Delete type=2 #19
+2023/08/11-09:19:58.810 819 Delete type=0 #17
+2023/08/11-09:19:58.810 819 Delete type=0 #7
+2023/08/11-09:19:58.810 819 Delete type=0 #24
+2023/08/11-09:19:58.810 819 Delete type=0 #4
+2023/08/11-09:19:58.810 819 Delete type=2 #32
+2023/08/11-09:19:58.810 819 Delete type=2 #8
+2023/08/11-09:19:58.810 819 Delete type=2 #39
+2023/08/11-09:19:58.810 819 Delete type=0 #38
+2023/08/11-09:19:58.810 819 Delete type=0 #12
+2023/08/11-09:19:58.810 819 Delete type=0 #45
+2023/08/11-09:19:58.810 819 Delete type=2 #25
+2023/08/11-09:22:07.815 819 Level-0 table #54: started
+2023/08/11-09:22:07.817 819 Level-0 table #54: 7057 bytes OK
+2023/08/11-09:22:07.819 819 Delete type=0 #50
+2023/08/11-09:22:07.820 819 Compacting 4@0 + 1@1 files
+2023/08/11-09:22:07.822 819 Generated table #55@0: 526 keys, 4116 bytes
+2023/08/11-09:22:07.822 819 Compacted 4@0 + 1@1 files => 4116 bytes
+2023/08/11-09:22:07.823 819 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/11-09:22:07.824 819 Delete type=2 #51
+2023/08/11-09:22:07.824 819 Delete type=2 #43
+2023/08/11-09:22:07.824 819 Delete type=2 #48
+2023/08/11-09:22:07.824 819 Delete type=2 #54
+2023/08/11-09:22:07.824 819 Delete type=2 #46
